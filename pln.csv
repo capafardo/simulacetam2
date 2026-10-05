@@ -1,0 +1,300 @@
+O metacaractere asterisco em expressões regulares indica que o elemento anterior deve aparecer exatamente uma única vez; F
+Analisar os logs de conversas é uma etapa fundamental do processo de melhoria contínua e expansão do dataset de treinamento; V
+A conversão de texto para minúsculas ajuda a evitar que o modelo trate Casa e casa como duas entidades completamente distintas; V
+Em um chatbot financeiro, expressões regulares são úteis para extrair valores monetários e números de faturas digitados pelos clientes; V
+A identificação de entidades nomeadas tem como único objetivo contabilizar o total de caracteres de cada frase; F
+Um dataset de treinamento para chatbots de ML deve conter no máximo um único exemplo de frase para cada intenção cadastrada; F
+Modelos clássicos como Naive Bayes superam modelos neurais profundos em tarefas que exigem raciocínio causal complexo sobre textos longos; F
+Um N-gram é uma sequência contígua de N itens extraídos de uma amostra de texto ou fala; V
+O programa ELIZA utilizava redes neurais profundas e aprendizado supervisionado para compreender os traumas psicológicos dos pacientes; F
+O balanceamento de classes consiste em apagar todas as frases do conjunto de treino para que todas as categorias fiquem com zero instâncias; F
+Chatbots baseados exclusivamente em regras conseguem responder com precisão sobre qualquer tema novo sem nenhuma alteração no código; F
+No Telegram, o uso de tokens de acesso foi abolido porque qualquer pessoa pode controlar o bot de terceiros sem permissão; F
+A lemmatização é mais rápida e consome menos memória do que o stemming porque dispensa tabelas morfológicas e vocabulários; F
+Em um chatbot, o limiar de confiança deve ser configurado obrigatoriamente em 0% para impedir que o robô faça perguntas de confirmação; F
+Se a confiança estimada pelo modelo para a intenção mais provável for inferior ao limiar estipulado, o chatbot pode acionar o fallback; V
+Em situações de contingência de rede, um simulador local de chatbot em linha de comando torna-se incapaz de executar regras lógicas em Python; F
+É considerado boa prática de transparência fazer com que o chatbot finja ser um ser humano de verdade para enganar o usuário; F
+A tokenização é o processo de segmentar uma sequência de caracteres em unidades mínimas de análise denominadas tokens; V
+Apesar da premissa de independência condicional raramente se confirmar na linguagem real, o Naive Bayes apresenta bom desempenho em classificação de textos; V
+A escolha entre Naive Bayes e Regressão Logística costuma depender do tamanho do dataset, velocidade requerida e interpretabilidade; V
+O gerenciamento de estado da conversa é necessário para que o chatbot lembre de informações fornecidas pelo usuário em etapas anteriores; V
+O histórico do PLN inclui testes seminais como o Teste de Turing, formulado para avaliar a capacidade de uma máquina exibir comportamento inteligente; V
+O relatório de classificação do Scikit-Learn serve para reiniciar automaticamente o computador do desenvolvedor em caso de acurácia baixa; F
+O mecanismo de fallback tem como finalidade desligar o servidor do chatbot sempre que o usuário fizer uma pergunta não reconhecida; F
+O cálculo do IDF independe da quantidade total de documentos presentes no conjunto de dados avaliado; F
+O parâmetro ngram_range configurado para um e dois no Scikit-Learn permite considerar tanto unigramas quanto bigramas no vocabulário; V
+Testes de estresse e simulações com mensagens fora do domínio esperado ajudam a verificar a eficiência do tratamento de fallback; V
+A definição de um limiar de confiança elevado reduz os erros por falsos positivos, embora possa aumentar o número de vezes que o bot pede esclarecimentos; V
+A identificação prévia da classe gramatical é essencial para que a lemmatização desambigue palavras com grafias idênticas mas funções diferentes; V
+A ambiguidade lexical ocorre quando uma mesma palavra possui múltiplos significados dependendo do contexto da frase; V
+O token secreto gerado pelo BotFather deve ser publicado em repositórios públicos abertos do GitHub para facilitar o acesso de invasores; F
+A métrica TF mede a frequência com que um termo específico ocorre em um determinado documento; V
+Em aprendizado supervisionado de texto, rotular manualmente exemplos de treinamento é uma prática dispensável que piora a precisão; F
+Em PLN, o termo pipeline refere-se exclusivamente ao hardware físico de servidores onde os modelos de IA são hospedados; F
+Uma árvore de decisão ou fluxo conversacional determina o encadeamento das etapas e opções de interação oferecidas ao usuário; V
+A função train_test_split do Scikit-Learn deve ser configurada para colocar 100% dos dados no conjunto de teste e 0% no treino; F
+Dicionários de respostas impedem completamente que um chatbot envie qualquer mensagem de texto de volta ao usuário; F
+A função re.match em Python busca ocorrências do padrão em qualquer posição arbitrária do texto, mesmo no final da frase; F
+A lemmatização transforma todos os números e pontuações de uma frase em substantivos próprios abstratos; F
+O uso da biblioteca NLTK em Python oferece suporte prático para operações de tokenização e remoção de stopwords em português; V
+O registro de conversas em arquivos de log deve ser terminantemente evitado em chatbots porque destrói o banco de dados do sistema; F
+O enriquecimento do dataset de intenções com variações linguísticas, gírias e sinônimos ajuda a tornar o chatbot mais robusto; V
+Em conformidade com a LGPD, o chatbot deve coletar apenas as informações estritamente necessárias para a finalidade do atendimento; V
+O pré-processamento de texto garante que nunca haverá perda de informação, mesmo quando removemos números e pontuação; F
+O token de acesso do Telegram é uma credencial confidencial que autentica o bot e nunca deve ser compartilhada publicamente no Git; V
+No Python, a biblioteca spaCy realiza lemmatização cortando aleatoriamente as três últimas letras de cada palavra; F
+O pipeline entrada-intenção-resposta-ação deve ser executado obrigatoriamente na ordem inversa para garantir a coerência do diálogo; F
+O Multinomial Naive Bayes é uma variante comumente utilizada para dados discretos como contagens de palavras e frequências TF-IDF; V
+O desbalanceamento de classes em um dataset de chatbot pode fazer com que o modelo raramente consiga prever intenções pouco frequentes; V
+Um vocabulário excessivamente grande gerado por falta de normalização aumenta a esparsidade dos dados na matriz de texto; V
+Chatbots podem ser classificados em baseados em regras predefinidas ou baseados em aprendizado de máquina; V
+No método Polling, o bot consulta os servidores do Telegram em intervalos regulares para buscar atualizações e mensagens novas; V
+Todo sistema de PLN é capaz de inferir com total precisão os sentimentos humanos apenas analisando a pontuação das frases; F
+Uma intenção representa o objetivo ou propósito do usuário ao enviar uma determinada mensagem ao assistente virtual; V
+Em Regex, o metacaractere barra s serve para buscar dígitos numéricos decimais de zero a nove; F
+Bigramas são formados exclusivamente pela união da primeira e da última palavra de um parágrafo longo; F
+A frequência do termo TF é calculada dividindo o total de documentos da base pela quantidade de letras do termo; F
+A classe gramatical de uma palavra nunca influencia o resultado da lemmatização morfológica em PLN; F
+No método Polling, o servidor do Telegram conecta-se ativamente ao computador desligado do aluno para enviar comandos por telepatia; F
+Um modelo linear de SVM é incapaz de operar com matrizes esparsas geradas por vetorizadores TF-IDF; F
+Dicionários em Python são frequentemente utilizados para mapear intenções ou comandos a respostas e ações pré-configuradas do assistente; V
+Uma entidade em um chatbot representa um dado específico ou parâmetro extraído da mensagem, como uma data, nome ou número de pedido; V
+O ruído textual engloba erros ortográficos, abreviações não padronizadas, repetições excessivas de caracteres e símbolos sem sentido; V
+Menus de opções em chatbots são proibidos pelas diretrizes modernas de design conversacional; F
+A matriz de confusão exibe exclusivamente os hiperparâmetros de configuração interna da placa gráfica do servidor; F
+Na matriz de confusão, os valores situados fora da diagonal principal representam as predições perfeitamente corretas; F
+O mecanismo de fallback é acionado quando o chatbot não compreende a mensagem do usuário ou a confiança da predição fica abaixo do limite; V
+Na biblioteca pandas, é comum manipular os textos e suas respectivas classes organizados em colunas de um DataFrame; V
+Em Python, a função split padrão consegue resolver com precisão absoluta todas as regras gramaticais de tokenização de qualquer idioma; F
+O relatório de classificação do Scikit-Learn consolida métricas de precisão, recall e F1-score por classe; V
+Em tarefas como busca por palavras-chave em grandes bases documentais, a remoção de stopwords costuma ser uma prática recomendada; V
+Ao contrário de vetores Bag of Words que são esparsos e de alta dimensão, embeddings costumam ter dimensão fixa e densa; V
+No método Webhook, o servidor do Telegram envia uma notificação HTTP com os dados da mensagem assim que ela chega ao bot; V
+O método Webhook exige que o bot possua uma URL pública com certificado HTTPS válido configurada para receber requisições externas; V
+A média harmônica utilizada no F1-Score atribui maior peso ao valor mais alto entre precisão e recall; F
+O contexto comunicativo é fundamental em PLN, pois uma mesma palavra pode assumir papéis sintáticos e sentidos diferentes em frases distintas; V
+Uma limitação do Bag of Words tradicional é a incapacidade de capturar sinônimos que possuem vetores ortogonais entre si; V
+Expressões regulares são algoritmos de aprendizado profundo capazes de gerar novas histórias literárias autonomamente; F
+A Lei Geral de Proteção de Dados estabelece diretrizes rígidas sobre a coleta, armazenamento e tratamento de dados pessoais no Brasil; V
+No aprendizado supervisionado para classificação de texto, o modelo aprende a mapear mensagens para suas respectivas classes ou intenções; V
+O Telegram Bot API é uma interface popular que permite integrar programas em Python ao aplicativo Telegram de forma gratuita e estruturada; V
+Vetores esparsos são aqueles onde a imensa maioria dos elementos possui valor numérico positivo diferente de zero; F
+O algoritmo Naive Bayes baseia-se no Teorema de Bayes e assume a premissa de que os atributos são condicionalmente independentes; V
+A matriz de confusão só pode ser calculada para problemas que possuem exatamente dez milhões de classes distintas; F
+Trigramas são sequências formadas obrigatoriamente por três caracteres alfabéticos contíguos de uma mesma palavra; F
+Bibliotecas como Seaborn e Matplotlib podem ser utilizadas para plotar gráficos visuais em formato de mapa de calor da matriz de confusão; V
+Sistemas de PLN dispensam o uso de métricas de avaliação quando treinados com textos em língua portuguesa; F
+Arquivos contendo senhas e chaves privadas de API devem ser comitados sem restrições no Git para evitar que o código seja perdido; F
+Testes de segurança em chatbots consistem em desativar todos os firewalls e divulgar as credenciais de banco de dados aos usuários; F
+O ruído textual é benéfico para o treinamento de modelos simples de machine learning, pois cria novos vocábulos aleatórios; F
+A Regressão Logística só pode ser aplicada para resolver problemas matemáticos com variáveis contínuas, sendo proibida em PLN; F
+O BotFather é o bot oficial do Telegram utilizado para registrar novos assistentes, definir comandos e gerar o token de autorização; V
+A matriz de confusão multiclasse permite diagnosticar visualmente quais intenções específicas estão sendo mais confundidas entre si pelo assistente; V
+O Part-of-Speech Tagging identifica a classe gramatical de cada palavra no texto, como substantivo, verbo ou adjetivo; V
+Na biblioteca spaCy, a tokenização é realizada preservando informações linguísticas detalhadas sobre cada token; V
+A métrica TF-IDF atribui o peso máximo possível para palavras extremamente frequentes em todos os textos da coleção; F
+A lemmatização preserva o sentido lexical com maior precisão do que o stemming, facilitando a legibilidade e interpretação humana dos dados; V
+Em um chatbot híbrido, regras simples tratam saudações e comandos fixos, enquanto modelos de machine learning tratam perguntas abertas; V
+O stemming pode gerar radicais que não correspondem a palavras reais da língua, mas que ainda assim agrupam termos da mesma família; V
+Na Regressão Logística, a função sigmoide mapeia a combinação linear das features para um valor de probabilidade entre 0 e 1; V
+O stemming e a lemmatização produzem exatamente o mesmo resultado textual para qualquer palavra da língua portuguesa; F
+O recall mede exclusivamente a velocidade em milissegundos com que o modelo carrega o arquivo do classificador na memória RAM; F
+A acurácia é sempre a métrica mais confiável e conclusiva para avaliar modelos de texto, independentemente do desbalanceamento das classes; F
+Em bases de dados desbalanceadas, a acurácia pode ser enganosa, pois classificar tudo na classe majoritária pode gerar um percentual de acerto elevado; V
+O algoritmo Snowball ou Porter é um dos métodos mais conhecidos e aplicados para a realização de stemming; V
+A matriz de contagem gerada por CountVectorizer sempre armazena números negativos para palavras pouco frequentes; F
+Chatbots de primeira geração nos anos 1960 eram capazes de aprender dinamicamente com as conversas e acumular consciência própria; F
+Em um pipeline de PLN, a etapa de pré-processamento de texto é dispensável quando os dados são coletados diretamente de redes sociais; F
+A biblioteca NLTK não possui suporte para listas de stopwords em idiomas diferentes do inglês; F
+A tokenização por palavras divide o texto sempre em caracteres isolados, ignorando a fronteira entre as palavras; F
+A biblioteca spaCy possui modelos estatísticos e pipelines pré-treinados capazes de realizar lemmatização robusta em português; V
+A métrica IDF penaliza palavras que aparecem em quase todos os documentos da base de dados; V
+Em um sistema de detecção de spam, um falso positivo ocorre quando um spam nocivo chega com sucesso à caixa de entrada do usuário; F
+A validação cruzada consiste em treinar o modelo uma única vez utilizando toda a internet como conjunto de treinamento; F
+Modelos de PLN modernos proibiram o uso de TF-IDF devido à sua incompatibilidade matemática com computadores modernos; F
+Auditorias periódicas nos dados de treinamento e nas respostas do assistente ajudam a mitigar a propagação de conteúdos ofensivos; V
+O limiar de confiança define a probabilidade mínima que o modelo deve ter para confirmar uma predição de intenção; V
+Padrões de Regex não permitem identificar sequências de números ou formatos de telefone digitados por usuários; F
+Um Falso Negativo indica que o modelo identificou a intenção do usuário antes mesmo de a mensagem ser enviada; F
+Chatbots de intenção e resposta precisam de conexão neural cerebral física com o operador humano para enviar mensagens no terminal; F
+A utilização de bigramas permite capturar relações de contexto local, como em não recomendo versus recomendo; V
+Alucinação é o termo usado para descrever respostas geradas por modelos de linguagem que parecem corretas, mas são factualmente falsas ou inventadas; V
+Unigramas são formados por palavras isoladas, enquanto bigramas consideram pares de palavras consecutivas; V
+Um token é necessariamente composto por uma frase completa com sujeito, predicado e complementos; F
+Em caso de restrições de internet na rede da escola, interfaces locais em terminal ou Streamlit servem como plano de contingência para testes; V
+Um sistema de reconhecimento de fala executa diretamente a classificação de sentimentos sem converter os sons em texto; F
+Sistemas de reconhecimento de fala transformam ondas sonoras em texto antes de processar o significado linguístico; V
+Transformar todas as palavras para letras maiúsculas ou minúsculas altera o significado intrínseco de qualquer termo na língua portuguesa; F
+Lemmatização é o processo linguístico de reduzir uma palavra à sua forma canônica ou de dicionário, denominada lema; V
+A função sigmoide na Regressão Logística transforma probabilidades em números inteiros negativos entre -100 e -1; F
+Quando o modelo possui alta precisão e baixo recall, significa que ele captura quase todos os casos positivos, cometendo muitos erros falsos; F
+Sistemas de tradução automática e corretores ortográficos são exemplos consolidados de aplicações de PLN no cotidiano; V
+Um chatbot desenvolvido para atendimento estudantil deve registrar abertamente as senhas bancárias dos familiares em arquivos de log sem proteção; F
+Expressões Regulares são ferramentas poderosas para identificar padrões de caracteres como CPFs, e-mails, telefones e datas; V
+Chatbots com Machine Learning utilizam telepatia para descobrir a vontade do usuário sem processar o texto digitado; F
+Em um chatbot, o conceito de intenção refere-se à velocidade com que a conexão de rede do servidor transfere pacotes de dados; F
+Chatbots baseados exclusivamente em regras tornam-se difíceis de manter e escalar à medida que a quantidade de caminhos possíveis cresce; V
+Expressões regulares compiladas por meio de re.compile apresentam melhor desempenho quando aplicadas repetidamente em grandes volumes de texto; V
+O método predict_proba disponível em modelos do Scikit-Learn retorna a estimativa de probabilidade para cada uma das classes possíveis; V
+A remoção de acentos gráficos é uma forma de normalização que pode simplificar o vocabulário, embora possa causar perda de distinção entre certas palavras; V
+Uma entidade em PLN refere-se exclusivamente ao código de licença de software comercial do sistema operacional; F
+Stemming é a técnica heurística de corte que reduz palavras ao seu radical, desconsiderando frequentemente a validade morfológica no dicionário; V
+No PLN tradicional, o significado semântico das palavras independe inteiramente da ordem em que aparecem no vocabulário da língua; F
+Word Embeddings são representações vetoriais densas onde palavras com sentidos semelhantes ocupam posições próximas no espaço vetorial; V
+A limpeza de dados textuais pode incluir a eliminação de tags HTML presentes em textos extraídos da internet; V
+O vocabulário em uma representação Bag of Words é definido pelo conjunto de termos únicos presentes nos dados de treino; V
+A persistência de logs de conversas estruturados facilita a extração periódica de métricas de uso e satisfação dos usuários; V
+O Processamento de Linguagem Natural é uma subárea da Inteligência Artificial voltada para a interação entre computadores e linguagens humanas faladas ou escritas; V
+O registro de histórico em arquivos de log, como CSV ou JSON, permite auditar conversas e identificar mensagens não compreendidas pelo bot; V
+A regularização em modelos como Regressão Logística e SVM ajuda a penalizar coeficientes muito altos, combatendo o overfitting; V
+O BotFather é um malware perigoso que deve ser imediatamente desinstalado do aplicativo Telegram; F
+Gírias e abreviações da internet devem ser traduzidas obrigatoriamente para o latim clássico antes de serem processadas por um bot; F
+Chatbots baseados em regras operam comparando as mensagens dos usuários com padrões predefinidos, como palavras-chave e expressões regulares; V
+Padrões de Regex como barras e d mais podem ser utilizados para capturar uma ou mais ocorrências consecutivas de dígitos numéricos; V
+Na matriz de confusão binária, os elementos da diagonal principal representam os acertos do classificador; V
+O método predict de um modelo treinado aceita diretamente uma string bruta em linguagem natural sem necessidade de vetorização prévia; F
+O processamento de textos curtos e informais, como postagens de internet, é mais simples e menos ruidoso do que o processamento de textos formais; F
+O programa ELIZA, desenvolvido na década de 1960 por Joseph Weizenbaum, simulava um psicoterapeuta utilizando casamento de padrões simples; V
+O TfidfVectorizer gera vetores unidimensionais de tamanho fixo igual a três para qualquer documento de texto; F
+Stopwords em português incluem termos técnicos altamente especializados como polimorfismo e backpropagation; F
+O histórico de mensagens armazenado em logs não possui nenhuma utilidade pedagógica nem prática para retreinamento de modelos; F
+O método Webhook não necessita de nenhuma conexão de internet nem de endereço web para receber mensagens do Telegram; F
+O overfitting ocorre quando o modelo decora os dados de treino, apresentando alto desempenho no treino mas baixa performance no teste; V
+O arquivo .gitignore é utilizado para impedir que dados sensíveis, ambientes virtuais e arquivos de log sejam enviados ao repositório Git; V
+A lemmatização do verbo estudávamos resulta no radical truncado estud, descartando a forma canônica do infinitivo; F
+A matriz de confusão apresenta em formato de tabela os cruzamentos entre os valores reais e as predições realizadas pelo modelo; V
+No Scikit-Learn, a função fit_transform deve ser aplicada exclusivamente nos dados de teste e nunca nos dados de treino; F
+O processo de stemming em português converte sempre todas as formas verbais para o tempo futuro do presente; F
+Quando um chatbot entra em estado de fallback, ele deve inventar informações falsas para nunca admitir que não entendeu; F
+A Regressão Logística é um modelo linear amplamente empregado na classificação de textos e intenções de chatbots; V
+Tokens podem representar palavras isoladas, números, pontuações ou até subpalavras dependendo do tokenizador adotado; V
+Modelos de PLN atuais estão totalmente imunes ao fenômeno de gerar respostas factualmente incorretas ou inventadas; F
+A coleta indiscriminada de dados de menores de idade sem autorização é permitida e incentivada pelas diretrizes éticas da LGPD; F
+A ambiguidade sintática em PLN refere-se à presença obrigatória de erros de digitação em mensagens de usuários; F
+Stopwords muito comuns em todos os documentos tendem a receber valores de IDF muito baixos no modelo TF-IDF; V
+Modelos clássicos de embeddings, como Word2Vec e GloVe, são capazes de capturar relações semânticas e analogias entre palavras; V
+Na Regressão Logística para texto, pesos negativos associados a uma palavra indicam que sua presença aumenta a probabilidade daquela classe; F
+Em sistemas críticos, como triagem de emergências de saúde, costuma-se priorizar um recall elevado para evitar perder casos positivos; V
+A biblioteca NLTK inclui o stemmer RSLP, voltado especificamente para o tratamento de sufixos na língua portuguesa; V
+Um Falso Positivo ocorre quando o classificador atribui erroneamente uma mensagem à classe positiva quando seu rótulo real é negativo; V
+O overfitting ocorre quando um classificador apresenta desempenho péssimo tanto nos dados de treino quanto nos dados de teste; F
+O POS Tagging serve para calcular o custo financeiro da execução de um modelo de linguagem em nuvem; F
+A técnica de TF-IDF é exclusiva para processamento de imagens e não pode ser aplicada a textos escritos em linguagens humanas; F
+O conjunto de teste deve ser utilizado para ajustar os hiperparâmetros do classificador e refazer o vocabulário antes de cada época; F
+Na representação Bag of Words, as frases o gato perseguiu o rato e o rato perseguiu o gato geram vetores completamente diferentes; F
+Palavras com significados próximos, como médico e hospital, ficam necessariamente em extremidades opostas no espaço de embeddings; F
+A etapa de ação em um pipeline de chatbot não permite executar consultas em bancos de dados nem chamadas a APIs externas; F
+A evolução do PLN eliminou por completo a necessidade de curadoria humana nos dados usados para treinar robôs conversacionais; F
+A pontuação nunca deve ser removida de um texto porque os algoritmos de machine learning dependem exclusivamente de vírgulas para aprender; F
+A normalização de texto consiste em uniformizar os dados textuais, como converter todas as letras para minúsculas; V
+O modelo Bag of Words representa um texto contando a frequência de ocorrência de cada palavra do vocabulário; V
+A separação dos dados em conjuntos de treino e teste é essencial para avaliar a capacidade de generalização do modelo em dados inéditos; V
+O termo de consentimento livre e esclarecido garante que o usuário esteja ciente de como suas mensagens serão processadas e armazenadas; V
+O TfidfVectorizer da biblioteca Scikit-Learn permite unir as etapas de contagem de termos e cálculo do TF-IDF em um único objeto; V
+O underfitting ocorre quando o modelo é excessivamente simples para capturar os padrões relevantes presentes nos dados textuais; V
+O F1-Score é a média harmônica entre precisão e recall, fornecendo uma métrica equilibrada quando há desbalanceamento entre classes; V
+Um Falso Negativo ocorre quando uma mensagem que pertencia à classe positiva é classificada erroneamente como negativa; V
+O estado da conversa é descartado obrigatoriamente no meio de uma transação financeira para garantir que o cliente repita os dados; F
+A representação numérica de textos dispensa a fase de definição de vocabulário durante o ajuste com dados de treinamento; F
+A remoção indiscriminada de pontuação pode prejudicar tarefas onde o ponto final ou de interrogação define o tipo de frase; V
+De acordo com a LGPD, um chatbot de pizzaria tem o direito legal de exigir e armazenar o histórico médico completo dos clientes; F
+O princípio da transparência na IA recomenda que o assistente informe claramente ao usuário que ele está interagindo com um robô; V
+O algoritmo RSLP da biblioteca NLTK foi desenvolvido para lematizar verbos irregulares na língua alemã; F
+Em português, a forma lematizada dos verbos corremos e correram é o infinitivo correr; V
+A análise de sentimentos visa identificar a polaridade emocional de um texto, classificando-o comumente como positivo, negativo ou neutro; V
+Chatbots baseados em regras conseguem responder com inteligência a qualquer pergunta imprevisível sem nenhuma programação prévia; F
+O processamento de linguagem falada costuma envolver ruídos adicionais em relação ao texto formal, como pausas, hesitações e variações dialetais; V
+Existe frequentemente um compromisso entre precisão e recall, onde aumentar uma dessas métricas pode ocasionar a redução da outra; V
+A precisão indica a porcentagem de instâncias classificadas como positivas que realmente pertenciam à classe positiva; V
+No módulo re do Python, a função re.sub permite substituir trechos que correspondam a um padrão de expressão regular por outro texto; V
+No aprendizado supervisionado, o modelo de classificação de texto aprende os padrões sem precisar de rótulos ou etiquetas nas frases; F
+A normalização de texto garante que o tamanho do vocabulário aumente exponencialmente a cada nova frase adicionada; F
+Para ambientes de teste e desenvolvimento local no laboratório, o método Polling costuma ser mais simples de configurar do que o Webhook; V
+Em chatbots, uma mesma intenção deve receber obrigatoriamente rótulos de classes diferentes para cada palavra digitada pelo usuário; F
+Em classificação de texto de alta dimensionalidade, classificadores lineares como SVM linear costumam apresentar excelente desempenho; V
+Se removermos todos os espaços em branco de um parágrafo, o tokenizador conseguirá identificar as palavras com maior facilidade; F
+Menus de opções e botões estruturados reduzem a ambiguidade da conversa, guiando o usuário por trajetórias previsíveis de atendimento; V
+No Bag of Words tradicional, a ordem das palavras e a gramática da frase são desconsideradas na geração do vetor; V
+Em chatbots com Machine Learning, cada intenção é representada por um conjunto variado de exemplos de frases de treinamento; V
+Erros de digitação cometidos pelos usuários em um chatbot devem ser mantidos sem correção, pois melhoram a precisão do classificador; F
+O underfitting pode ser solucionado removendo ainda mais dados e simplificando o modelo até restar apenas uma regra fixa; F
+O modelo Bag of Words preserva perfeitamente a estrutura poética e a ordem temporal exata de todas as orações de um livro; F
+Em tarefas de análise de sentimentos, remover certas palavras consideradas stopwords, como o advérbio não, pode distorcer o sentido da frase; V
+Uma mensagem típica de fallback informa cordialmente que o robô não entendeu a solicitação e orienta o usuário com opções ou reformulações; V
+O vocabulário criado por um vetorizador inclui automaticamente palavras inéditas que nunca apareceram nos dados de treino; F
+O Processamento de Linguagem Natural restringe-se exclusivamente à análise sintática de linguagens formais de programação como C e Python; F
+A função train_test_split do Scikit-Learn permite particionar os dados mantendo opcionalmente a proporção das classes via amostragem estratificada; V
+O sistema de controle de versão Git permite rastrear alterações no código-fonte, colaborar em equipe e reverter modificações indesejadas; V
+O algoritmo Support Vector Machine funciona minimizando ao máximo a distância entre os pontos mais próximos das duas classes; F
+O processo de limpeza de texto é uma etapa final do pipeline de PLN realizada apenas após o treinamento do modelo preditivo; F
+A validação cruzada avalia a estabilidade do modelo dividindo a base em múltiplos subconjuntos de treino e teste; V
+Espaços em branco duplicados e quebras de linha desnecessárias devem ser eliminados na etapa de limpeza de texto; V
+A técnica de stemming é frequentemente preferida quando a velocidade de processamento e economia de memória são prioridades críticas; V
+A utilização de Regex auxilia na detecção e substituição padronizada de variações ortográficas e gírias regionais comuns; V
+A remoção de stopwords pode reduzir o tamanho do vocabulário e o custo computacional no treinamento de modelos clássicos; V
+Em expressões regulares, o metacaractere ponto corresponde a qualquer caractere individual, exceto quebra de linha por padrão; V
+Se um conjunto de dados possui 99% de mensagens da classe A e 1% da classe B, um modelo com 99% de acurácia é certamente excelente para a classe B; F
+O Support Vector Machine busca encontrar o hiperplano que maximiza a margem de separação entre diferentes classes; V
+Algoritmos de Machine Learning operam sobre representações numéricas vetoriais, necessitando que textos sejam vetorizados; V
+O arquivo .gitignore deve listar obrigatoriamente todo o código-fonte essencial do projeto para que ele nunca seja salvo no Git; F
+O stemming é um processo profundo que consulta obrigatoriamente um dicionário etimológico antes de remover sufixos; F
+A análise de sentimentos restringe-se a contar a quantidade total de vogais presentes em uma mensagem de texto; F
+Configurar o limiar de confiança em 99% garante que o chatbot responderá prontamente a todas as perguntas dos usuários sem nunca acionar o fallback; F
+Ao remover a palavra não de uma frase como não recomendo este produto, a análise de sentimentos preserva com fidelidade a opinião do usuário; F
+Um Falso Positivo acontece quando o modelo acerta com 100% de certeza a intenção real desejada pelo usuário; F
+O Teste de Turing foi planejado para medir o poder de processamento gráfico de uma placa de vídeo em renderizações 3D; F
+Em chatbots, a padronização de caracteres para minúsculas é proibida porque impede o robô de enviar respostas em letras maiúsculas; F
+O recall ou revocação mede a proporção de instâncias reais da classe positiva que o modelo conseguiu identificar corretamente; V
+Stopwords devem ser obrigatoriamente eliminadas em todas as aplicações de PLN, inclusive em sistemas de tradução automática e análise sintática; F
+Na inferência supervisionada, o método predict recebe novos textos vetorizados e retorna a classe prevista pelo algoritmo; V
+Sistemas de PLN baseados em regras exigem a criação manual de padrões linguísticos e heurísticas por desenvolvedores; V
+A extração de entidades nomeadas é uma tarefa de PLN focada em localizar e classificar termos como nomes de pessoas, organizações e locais em um texto; V
+Avaliar um modelo de PLN utilizando os mesmos dados com os quais ele foi treinado garante uma medição realista de sua generalização; F
+A criação de mensagens de boas-vindas é uma falha de design que impede os usuários de saberem o propósito do assistente; F
+Um modelo treinado com Bag of Words de unigramas consegue distinguir facilmente não gostei de gostei bastante quando a ordem importa; F
+O classificador Naive Bayes é conhecido por exigir semanas ininterruptas de treinamento mesmo para bases de texto minúsculas; F
+Word Embeddings densos aumentam de tamanho proporcionalmente a cada nova palavra do vocabulário, chegando a milhões de colunas por frase; F
+Stopwords são palavras muito frequentes em um idioma, como artigos e preposições, que costumam carregar pouco peso semântico isoladamente; V
+A predição de intenção em um chatbot supervisionado resulta sempre em uma resposta aleatória sem relação com os dados de treino; F
+Tags HTML e scripts JavaScript encontrados em textos da web devem ser preservados como features fundamentais na classificação de texto; F
+O pipeline clássico de um chatbot inteligente é composto pelas etapas de entrada da mensagem, predição da intenção, seleção de resposta e execução de ação; V
+Computadores modernos compreendem diretamente as nuances emocionais e a ironia dos textos humanos sem necessidade de conversão numérica; F
+O parâmetro min_df no CountVectorizer permite descartar termos que aparecem em menos documentos do que um limiar mínimo estipulado; V
+O classificador Naive Bayes pressupõe que as palavras de uma frase possuem forte dependência sintática mútua para calcular probabilidades; F
+A amostragem estratificada divide a base de dados de forma totalmente aleatória, ignorando propositalmente o equilíbrio das classes; F
+Em mensagens de suporte técnico, a padronização de gírias e abreviações facilita a identificação correta das intenções do usuário; V
+A acurácia representa a proporção total de predições corretas realizadas pelo modelo em relação a todas as predições feitas; V
+O sistema Git serve exclusivamente para compilar arquivos de áudio em tempo real durante chamadas de voz no Telegram; F
+A anonimização de dados pessoais consiste em publicar o nome completo e o CPF de todos os clientes no mural da escola; F
+Se um modelo de classificação de intenções decorou frases idênticas do treino, ele pode falhar ao receber mensagens com pequenas variações de vocabulário; V
+A biblioteca spaCy não suporta processamento de texto no idioma português, restringindo-se ao inglês britânico; F
+Enquanto o stemming aplica regras de sufixação rápidas, a lemmatização depende de análise morfológica e do contexto da palavra; V
+A anonimização ou mascaramento de dados sensíveis como CPFs e e-mails é uma prática recomendada antes de gravar conversas nos logs; V
+Durante o ajuste de hiperparâmetros, deve-se utilizar o conjunto de validação ou treino, mantendo o conjunto de teste isolado até a avaliação final; V
+A LGPD proíbe expressamente que os usuários saibam quais dados pessoais estão sendo armazenados pelos sistemas digitais; F
+O processo de lemmatização tende a ser computacionalmente mais lento e exigente do que o stemming simples; V
+Um pipeline típico de PLN envolve etapas sequenciais como pré-processamento, extração de atributos, modelagem e avaliação; V
+Word Embeddings geram matrizes exclusivamente compostas por valores booleanos de verdadeiro ou falso; F
+Métricas de avaliação de modelos de texto tornam-se desnecessárias se o desenvolvedor utilizar a linguagem de programação Python; F
+Expressões regulares tornam-se obsoletas quando se deseja encontrar padrões estruturados simples como endereços de e-mail; F
+A métrica de precisão calcula a quantidade de frases de treino dividida pelo número total de palavras do vocabulário; F
+Chatbots de inteligência artificial são inerentemente neutros e nunca refletem os preconceitos presentes nos textos com que foram treinados; F
+No módulo re do Python, a função re.findall serve exclusivamente para apagar o disco rígido do sistema operacional; F
+A sumarização automática de textos tem como finalidade gerar resumos concisos preservando as informações mais relevantes do documento original; V
+A manutenção de chatbots baseados em regras torna-se cada vez mais simples quanto maior for o número de regras conflitantes adicionadas; F
+A matriz gerada pelo CountVectorizer do Scikit-Learn é tipicamente esparsa, contendo uma grande quantidade de valores zero; V
+O radical gerado pelo stemming é sempre uma palavra válida e perfeitamente dicionarizada da língua portuguesa; F
+A tokenização por sentenças divide um parágrafo longo em frases individuais com base em pontuações terminativas; V
+Em um pipeline de PLN, a qualidade dos dados de entrada afeta diretamente o desempenho dos algoritmos de classificação; V
+Sistemas de busca na web utilizam técnicas de PLN para interpretar a intenção da consulta do usuário e ranquear documentos relevantes; V
+O F1-Score é calculado subtraindo o número de falsos positivos do número total de acertos do algoritmo; F
+A remoção de caracteres especiais e pontuações irrelevantes ajuda a reduzir ruídos em bases textuais informais; V
+Vieses algorítmicos em chatbots podem surgir de dados de treinamento desequilibrados ou preconceituosos, refletindo discriminações sociais; V
+O tratamento de repetições exageradas de caracteres, como transformar uma sequência de letras repetidas em sua forma normal, melhora a qualidade da representação textual; V
+A normalização textual é responsável por calcular a probabilidade a posteriori de uma frase pertencer a uma intenção; F
+A remoção de sufixos por stemming garante que palavras semanticamente opostas como bom e mau sejam unificadas no mesmo radical; F
+No TF-IDF, termos raros no corpus que aparecem com frequência em um documento específico recebem pesos mais elevados; V
+Em um vetor Bag of Words, a presença de uma grande quantidade de zeros indica que o modelo computou erros de programação; F
+O sarcasmo e a ironia representam desafios significativos para algoritmos de análise de sentimentos; V
+A tokenização só pode ser aplicada a textos escritos em inglês, sendo inviável para línguas latinas como o português; F

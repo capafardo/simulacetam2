@@ -1,0 +1,22 @@
+# Requisitos e especificações internas
+CONTENT.md
+
+# Arquivos de dados de ranking e XP gerados em tempo de execução
+*.dat
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Arquivos temporários e editores
+*.swp
+*.swo
+*~
+.DS_Store

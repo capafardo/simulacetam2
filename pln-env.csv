@@ -1,0 +1,199 @@
+PLN significa Processamento de Linguagem Natural.;V
+O objetivo da PLN é permitir que computadores trabalhem com linguagem humana.;V
+A linguagem humana pode ser analisada por computadores usando técnicas de PLN.;V
+PLN é usada somente para criar imagens digitais.;F
+Chatbots podem utilizar técnicas de PLN para interpretar mensagens dos usuários.;V
+Tradução automática é um exemplo de aplicação de PLN.;V
+Correção automática de texto pode utilizar técnicas de PLN.;V
+Reconhecimento de sentimentos pode ser uma aplicação de PLN.;V
+PLN não tem relação com textos ou linguagem humana.;F
+Um dos desafios da PLN é lidar com ambiguidades da linguagem humana.;V
+Todo texto tem apenas uma interpretação possível.;F
+A PLN combina conhecimentos de computação e linguagem humana.;V
+A PLN surgiu somente depois da criação dos smartphones.;F
+Pesquisas sobre processamento de linguagem por computadores existem há várias décadas.;V
+O desenvolvimento da PLN está relacionado à evolução da computação e da inteligência artificial.;V
+PLN e processamento de imagens são exatamente a mesma área.;F
+Um sistema de PLN pode trabalhar com palavras, frases e documentos.;V
+Um chatbot é obrigatoriamente um robô físico.;F
+Assistentes virtuais podem usar PLN para receber e interpretar comandos em linguagem natural.;V
+A PLN pode ser aplicada em sistemas de busca.;V
+A PLN só pode ser utilizada em textos escritos em inglês.;F
+Sistemas de PLN podem ser desenvolvidos para diferentes idiomas.;V
+O contexto pode ajudar um sistema a interpretar corretamente uma frase.;V
+PLN não pode ser usada em sistemas de atendimento ao cliente.;F
+Alan Turing foi um importante matemático e cientista da computação.;V
+Alan Turing propôs uma discussão sobre a capacidade de máquinas apresentarem comportamento inteligente.;V
+O Teste de Turing está relacionado à capacidade de uma máquina conversar de forma que possa ser confundida com uma pessoa.;V
+Alan Turing criou a linguagem de programação Python.;F
+Alan Turing foi uma figura importante na história da computação.;V
+O Teste de Turing é um conceito histórico ligado à inteligência artificial.;V
+O Teste de Turing mede diretamente a velocidade de uma conexão de internet.;F
+ELIZA foi um dos primeiros programas conhecidos por simular uma conversa com uma pessoa.;V
+ELIZA foi criada por Joseph Weizenbaum.;V
+ELIZA foi criada originalmente como um sistema de reconhecimento facial.;F
+ELIZA utilizava padrões e regras para produzir respostas.;V
+ELIZA é um exemplo histórico importante para o estudo de chatbots.;V
+ELIZA possuía compreensão humana completa das conversas.;F
+Um programa baseado em regras pode produzir respostas sem realmente compreender o significado como uma pessoa.;V
+O estudo de ELIZA ajuda a entender a evolução dos sistemas conversacionais.;V
+ELIZA foi desenvolvida para controlar robôs industriais.;F
+O trabalho de Turing ocorreu antes do surgimento da linguagem Python.;V
+O Teste de Turing foi proposto no século XX.;V
+O Teste de Turing foi criado para verificar se um computador consegue formatar um disco.;F
+ELIZA é frequentemente citada na história dos agentes conversacionais.;V
+Turing não teve nenhuma importância para a história da inteligência artificial.;F
+ELIZA é um exemplo de sistema conversacional baseado em técnicas simples.;V
+Um chatbot pode seguir regras sem possuir consciência.;V
+ELIZA demonstrou que uma conversa simulada pode parecer mais inteligente do que realmente é.;V
+O Teste de Turing exige que a máquina tenha aparência humana.;F
+Um pipeline de PLN é uma sequência organizada de etapas de processamento.;V
+Um pipeline pode transformar uma mensagem recebida em uma informação útil para o chatbot.;V
+A entrada do chatbot pode ser uma mensagem de texto do usuário.;V
+Todo pipeline de PLN precisa obrigatoriamente usar redes neurais.;F
+A limpeza do texto pode fazer parte de um pipeline de PLN.;V
+A tokenização pode fazer parte do processamento de uma mensagem.;V
+A identificação de intenção pode ocorrer depois do pré-processamento.;V
+Um dicionário de respostas pode ser usado por um chatbot baseado em regras.;V
+Um pipeline de chatbot precisa sempre começar gerando uma imagem.;F
+O pipeline de PLN pode incluir entrada, pré-processamento, análise e geração de resposta.;V
+A etapa de identificação de intenção tenta descobrir o objetivo da mensagem.;V
+Uma intenção pode representar algo como saudação, dúvida ou pedido de ajuda.;V
+O chatbot pode selecionar uma resposta com base na intenção identificada.;V
+Em um chatbot baseado em regras, as intenções podem ser definidas manualmente.;V
+O pipeline deve ignorar completamente a mensagem enviada pelo usuário.;F
+Uma mesma intenção pode possuir várias frases de exemplo.;V
+O pré-processamento pode facilitar a comparação entre a mensagem e as regras.;V
+Um chatbot baseado em regras não precisa necessariamente utilizar um modelo de linguagem.;V
+A resposta de um chatbot baseado em regras pode ser escolhida em um dicionário.;V
+Identificar intenção significa obrigatoriamente traduzir a frase para outro idioma.;F
+O pipeline pode ser dividido em etapas para facilitar o entendimento do sistema.;V
+A saída do pipeline pode ser uma resposta textual para o usuário.;V
+Um chatbot simples pode funcionar sem treinamento de uma rede neural.;V
+Todo chatbot precisa consultar a internet para responder.;F
+Regras manuais podem ser úteis para ensinar conceitos de PLN em um projeto educacional.;V
+Python possui diversas bibliotecas úteis para trabalhar com linguagem natural.;V
+NLTK é uma biblioteca Python bastante conhecida na área de PLN.;V
+spaCy é uma biblioteca Python usada em tarefas de processamento de linguagem.;V
+Regex pode ser usada em Python para trabalhar com expressões regulares.;V
+scikit-learn pode ser usada em tarefas de aprendizado de máquina relacionadas a texto.;V
+pandas pode ser útil para organizar e analisar dados textuais em tabelas.;V
+A biblioteca NLTK significa Natural Language Toolkit.;V
+spaCy não pode ser utilizada para nenhuma tarefa relacionada a texto.;F
+NLTK é uma biblioteca criada exclusivamente para edição de vídeos.;F
+O módulo re do Python permite trabalhar com expressões regulares.;V
+scikit-learn pode apoiar tarefas de classificação de textos.;V
+Bibliotecas facilitam o desenvolvimento porque oferecem funcionalidades prontas.;V
+Um chatbot simples baseado em regras pode usar apenas recursos básicos do Python.;V
+Todo chatbot precisa instalar todas as bibliotecas existentes de PLN.;F
+A escolha das bibliotecas depende das necessidades do projeto.;V
+Bibliotecas de PLN podem oferecer recursos de tokenização.;V
+Bibliotecas de PLN podem ajudar na análise de textos.;V
+O Python não possui suporte para manipulação de strings.;F
+Strings são tipos de dados importantes para trabalhar com texto em Python.;V
+Uma biblioteca sempre elimina a necessidade de compreender o problema que está sendo resolvido.;F
+O uso de bibliotecas pode reduzir a quantidade de código que precisamos escrever.;V
+NLTK e spaCy são ferramentas que podem ser estudadas por alunos de PLN.;V
+O módulo re faz parte da biblioteca padrão do Python.;V
+Python só consegue processar números e não consegue processar textos.;F
+A documentação das bibliotecas é importante para aprender a utilizá-las.;V
+Uma expressão regular é uma forma de descrever padrões em textos.;V
+Expressões regulares são frequentemente chamadas de regex.;V
+Regex pode ser usada para procurar padrões dentro de uma string.;V
+Regex pode ajudar a localizar números, palavras ou formatos específicos.;V
+Expressões regulares podem ser usadas na limpeza de textos.;V
+O módulo re do Python oferece funções para trabalhar com regex.;V
+Regex é usada exclusivamente para criar gráficos.;F
+Uma expressão regular pode ajudar a encontrar um endereço de e-mail em um texto.;V
+Regex pode ser usada para validar determinados formatos de entrada.;V
+Toda expressão regular é obrigatoriamente uma frase completa em português.;F
+O símbolo ^ pode ser usado em regex para indicar o início de uma string ou linha, dependendo do contexto.;V
+O símbolo $ pode ser usado para indicar o final de uma string ou linha, dependendo do contexto.;V
+O ponto em regex pode representar um caractere qualquer em muitos contextos.;V
+O asterisco pode indicar zero ou mais ocorrências do elemento anterior.;V
+O sinal + pode indicar uma ou mais ocorrências do elemento anterior.;V
+Colchetes podem ser usados para definir uma classe de caracteres.;V
+Regex pode ser útil para remover determinados padrões de um texto.;V
+Regex entende o significado profundo de uma frase como um ser humano.;F
+Usar regex pode facilitar tarefas repetitivas de busca e substituição.;V
+Uma regex mal construída pode produzir resultados inesperados.;V
+Expressões regulares são obrigatórias em todos os projetos de PLN.;F
+Regex pode ajudar a identificar comandos simples em um chatbot baseado em regras.;V
+Uma regex pode ser usada para verificar se uma mensagem contém determinada estrutura.;V
+Regex substitui todas as outras técnicas de PLN.;F
+Conhecer regex é útil para quem trabalha com tratamento de textos.;V
+Pré-processamento prepara o texto para etapas posteriores de análise.;V
+A limpeza pode remover caracteres ou informações que não são úteis para determinada tarefa.;V
+Converter texto para letras minúsculas pode facilitar comparações.;V
+Tokenização consiste em dividir um texto em unidades chamadas tokens.;V
+Uma palavra pode ser um token.;V
+Uma frase inteira também pode ser considerada um token em determinadas estratégias.;V
+Stopwords são palavras que podem ser removidas em algumas tarefas de análise.;V
+Nem todo projeto deve remover stopwords.;V
+A remoção de pontuação pode fazer parte do pré-processamento.;V
+A tokenização sempre destrói completamente o texto original e impede qualquer recuperação.;F
+Normalização pode reduzir diferenças de escrita que não são importantes para a tarefa.;V
+Lematização busca relacionar palavras às suas formas básicas ou lemas.;V
+Stemming tenta reduzir palavras a uma forma aproximada de radical.;V
+Pré-processamento é sempre igual para todos os projetos de PLN.;F
+O pré-processamento deve considerar o objetivo da aplicação.;V
+Remover acentos pode ser útil em alguns projetos, mas não é uma regra universal.;V
+Limpar texto significa necessariamente apagar todas as palavras.;F
+Tokenização é uma etapa comum em muitos pipelines de PLN.;V
+A ordem das etapas de pré-processamento pode depender do projeto.;V
+O pré-processamento pode ajudar a reduzir variações desnecessárias do texto.;V
+É possível aplicar regex durante a limpeza de um texto.;V
+Uma mensagem pode ser normalizada antes da identificação de intenção.;V
+Tokenização transforma qualquer texto automaticamente em uma resposta.;F
+A limpeza do texto deve ser feita sem considerar o significado da aplicação.;F
+Um texto bem pré-processado pode facilitar a aplicação de regras.;V
+Um chatbot baseado em regras pode identificar intenções por palavras ou padrões definidos pelo programador.;V
+Uma intenção representa o objetivo ou assunto principal de uma mensagem.;V
+A intenção 'saudacao' pode representar mensagens como 'olá' e 'bom dia'.;V
+Um dicionário Python pode armazenar intenções e respostas.;V
+Uma lista pode armazenar várias palavras associadas a uma intenção.;V
+O programador pode criar manualmente regras para reconhecer intenções.;V
+Um chatbot por regras necessariamente aprende sozinho com cada mensagem.;F
+Uma regra pode verificar se determinada palavra aparece na mensagem.;V
+Regex pode ser combinada com regras de intenção.;V
+O chatbot pode ter uma resposta padrão quando nenhuma intenção é reconhecida.;V
+Um dicionário de respostas pode relacionar uma intenção a uma mensagem.;V
+A intenção 'despedida' pode ser associada a palavras como 'tchau'.;V
+Uma única palavra sempre determina corretamente a intenção de qualquer frase.;F
+Regras muito simples podem gerar ambiguidades.;V
+Quanto melhor forem definidas as regras, mais previsível tende a ser o comportamento do chatbot.;V
+Um chatbot por regras não pode ter mais de uma intenção.;F
+O sistema pode comparar tokens da mensagem com palavras associadas às intenções.;V
+É possível atribuir uma pontuação para diferentes intenções encontradas.;V
+Em caso de empate entre regras, o programador pode definir uma estratégia de desempate.;V
+Um dicionário de respostas precisa obrigatoriamente conter imagens.;F
+Um chatbot educacional por regras é útil para demonstrar conceitos básicos de PLN.;V
+A identificação de intenção pode ser feita antes da escolha da resposta.;V
+A resposta deve ser escolhida sem considerar a intenção identificada.;F
+O sistema pode informar que não entendeu quando nenhuma regra for satisfeita.;V
+Adicionar novas intenções pode ampliar as capacidades de um chatbot baseado em regras.;V
+Um ambiente virtual Python cria um espaço isolado para dependências de um projeto.;V
+Ambientes virtuais ajudam a evitar conflitos entre versões de bibliotecas.;V
+O comando python3 -m venv pode ser usado para criar um ambiente virtual.;V
+Depois de criar um ambiente virtual, ele normalmente precisa ser ativado para uso no terminal.;V
+No Linux, um ambiente criado como 'venv' pode ser ativado com 'source venv/bin/activate'.;V
+O nome do ambiente virtual precisa obrigatoriamente ser 'venv'.;F
+O comando pip pode ser usado para instalar pacotes Python.;V
+O comando pip install nltk pode instalar o pacote NLTK.;V
+O pip serve exclusivamente para criar usuários no Linux.;F
+O comando deactivate pode sair do ambiente virtual atualmente ativo.;V
+Um ambiente virtual pode ser removido apagando seu diretório.;V
+Excluir um ambiente virtual não significa excluir o Python do sistema.;V
+É possível criar ambientes virtuais separados para projetos diferentes.;V
+Usar ambiente virtual é uma boa prática em muitos projetos Python.;V
+O ambiente virtual torna o sistema operacional inteiro um ambiente Python.;F
+O pip pode instalar dependências listadas em um arquivo requirements.txt.;V
+O comando pip freeze pode mostrar pacotes instalados no ambiente.;V
+O comando python -m pip pode ser usado para executar o pip associado a determinado Python.;V
+Para instalar bibliotecas, é obrigatório sempre utilizar o comando apt.;F
+O terminal Linux pode ser usado para criar e administrar ambientes virtuais Python.;V
+Um ambiente virtual não pode conter bibliotecas Python.;F
+Ao ativar um ambiente virtual, o prompt do terminal geralmente indica o ambiente ativo.;V
+Cada projeto precisa obrigatoriamente de um ambiente virtual diferente.;F
+O pip pode atualizar ou remover pacotes instalados.;V
+Desativar um ambiente virtual não apaga os arquivos do projeto.;V

@@ -107,6 +107,7 @@ Ao iniciar o programa, o tema **DIREITO_CONSTITUCIONAL** aparecerá automaticame
 ├── README.md           # Documentação completa do projeto
 ├── .gitignore          # Arquivos e diretórios ignorados pelo Git
 ├── gta5.csv            # Banco de questões sobre GTA V
+├── pln-env.csv         # Banco de questões sobre PLN e Ambientes Virtuais
 └── pln.csv             # Banco de questões sobre Processamento de Linguagem Natural
 ```
 
